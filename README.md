@@ -1,4 +1,4 @@
-## How to run Flask script persistantly
+## How to run Flask script persistently
 #### # To run gunicorn:
 ```
 #Install virtual environment and 
